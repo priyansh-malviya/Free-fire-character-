@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    background-color:black ;
+}
+div{
+    margin-top: 15px;
+}
+.image-section1{
+    display:flex ;
+    justify-content: center;
+    color: gold;
+    border: solid aquamarine;
+    margin-left:20px;
+
+
+}
+.imagestyle{
+    margin-left: 25px;
+    margin-right: 25px;
+    background-color: royalblue;
+}
+h1{
+    color: gold;
+}
+#date{
+    color: gold;
+}
+
+
